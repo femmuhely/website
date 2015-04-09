@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hus on </title>
-    <link>http://umcaruje.github.io/gegsite/hu/</link>
+    <link>https://umcaruje.github.io/gegsite/hu/</link>
     <description>Recent content in Hus on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 09 Apr 2015 22:20:13 +0200</lastBuildDate>
-    <atom:link href="http://umcaruje.github.io/gegsite/hu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://umcaruje.github.io/gegsite/hu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>shit</title>
-      <link>http://umcaruje.github.io/gegsite/hu/shit/</link>
+      <link>https://umcaruje.github.io/gegsite/hu/shit/</link>
       <pubDate>Thu, 09 Apr 2015 22:20:13 +0200</pubDate>
       
-      <guid>http://umcaruje.github.io/gegsite/hu/shit/</guid>
+      <guid>https://umcaruje.github.io/gegsite/hu/shit/</guid>
       <description>&lt;p&gt;fafasd&lt;/p&gt;
 </description>
     </item>
