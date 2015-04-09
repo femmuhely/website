@@ -2,6 +2,12 @@
 	font-family: 'Raleway', sans-serif;
 	font-weight: 700;
 	color: #e8ab06;
+	transition: all 0.2s linear 0s;
+	text-align: center;
+}
+.site-name:hover,
+.site-name:visited {
+	color: #ebac00;
 }
 .container {
 	max-width: 1000px;
@@ -12,7 +18,12 @@
 .cover {
 	min-width: 100vw;
 	min-height: 40vh;
-	background-image: url('../img/background.jpg');
+	background-image: 
+		linear-gradient(
+      		rgba(232, 171, 6, 0.19), 
+			rgba(232, 171, 6, 0.18)
+    	),
+		url('../img/background.jpg');
 	background-position: center center;
 	background-size: cover;
 	display: flex;
