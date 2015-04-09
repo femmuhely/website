@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ens on </title>
+    <link>http://localhost:1313/gegsite/en/</link>
+    <description>Recent content in Ens on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Apr 2015 21:49:57 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/gegsite/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>contact</title>
+      <link>http://localhost:1313/gegsite/en/contact/</link>
+      <pubDate>Thu, 09 Apr 2015 21:49:57 +0200</pubDate>
+      
+      <guid>http://localhost:1313/gegsite/en/contact/</guid>
+      <description>&lt;p&gt;WEWUFVDZIGVSZIGASPIZgspi&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
