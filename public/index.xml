@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://umcaruje.github.io/gegsite/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Apr 2015 22:20:13 +0200</lastBuildDate>
+    <atom:link href="http://umcaruje.github.io/gegsite/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>shit</title>
+      <link>http://umcaruje.github.io/gegsite/hu/shit/</link>
+      <pubDate>Thu, 09 Apr 2015 22:20:13 +0200</pubDate>
+      
+      <guid>http://umcaruje.github.io/gegsite/hu/shit/</guid>
+      <description>&lt;p&gt;fafasd&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://umcaruje.github.io/gegsite/en/contact/</link>
+      <pubDate>Thu, 09 Apr 2015 21:49:57 +0200</pubDate>
+      
+      <guid>http://umcaruje.github.io/gegsite/en/contact/</guid>
+      <description>&lt;p&gt;WEWUFVDZIGVSZIGASPIZgspi&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
