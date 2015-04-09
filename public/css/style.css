@@ -10,6 +10,20 @@
 	background-color: #fffcf5;
 }
 .cover {
-	width: 100vw;
-	height: 40vh;
+	min-width: 100vw;
+	min-height: 40vh;
+	background-image: url('../img/background.jpg');
+	background-position: center center;
+	background-size: cover;
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+.navbar{
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+.cover h1,
+.cover h3 {
+	color: aliceblue;
 }
