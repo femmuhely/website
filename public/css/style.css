@@ -1,8 +1,8 @@
-
 a:hover {
 	color: #0e9ec9;
 	transition: all 0.2s linear 0s;
 }
+
 .site-name {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 700;
@@ -10,39 +10,50 @@ a:hover {
 	transition: all 0.2s linear 0s;
 	text-align: center;
 }
+
 .site-name:visited {
 	color: #e8ab06;
 }
+
 .site-name:hover {
 	color: #0e9ec9;
 }
+
 .container {
 	max-width: 1000px;
 }
+
 .navbar {
 	background-color: #fffcf5;
 }
+
 .cover {
 	min-width: 100vw;
 	min-height: 40vh;
-	background-image: 
-		linear-gradient(
-      		rgba(232, 171, 6, 0.19), 
-			rgba(232, 171, 6, 0.18)
-    	),
-		url('../img/background.jpg');
+	background-image: linear-gradient( rgba(232, 171, 6, 0.19), rgba(232, 171, 6, 0.18)), url('../img/background.jpg');
 	background-position: center center;
 	background-size: cover;
 	display: flex;
-  	align-items: center;
-  	justify-content: center;
+	align-items: center;
+	justify-content: center;
 }
-.navbar{
+
+.navbar {
 	padding-bottom: 0px;
 	margin-bottom: 0px;
 }
+
 .cover h1,
 .cover h3 {
 	color: aliceblue;
+	font-family: 'Damion', cursive;
 }
 
+.cover h1 {
+	font-size: 6em;
+}
+
+.flag {
+	height: 15px;
+	margin: 0 auto;
+}

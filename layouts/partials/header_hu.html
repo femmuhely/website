@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+{{ $baseurl := .Site.BaseUrl }}
 <html lang="en">
 
 <head>
@@ -11,37 +11,26 @@
 	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel='stylesheet' type='text/css'>
 	<link href='//fonts.googleapis.com/css?family=Raleway:700' rel='stylesheet' type='text/css'>
 	<link href='//fonts.googleapis.com/css?family=Damion' rel='stylesheet' type='text/css'>
-	<link href="https://umcaruje.github.io/gegsite/css/style.css" rel='stylesheet' type='text/css'>
+	<link href="{{ $baseurl }}/css/style.css" rel='stylesheet' type='text/css'>
 </head>
 
 <body>
 	<nav class="navbar navbar-static-top">
 		<div class="container">
 			<div class="navbar-header">
-				<a class="site-name navbar-brand" href="https://umcaruje.github.io/gegsite/en">femmuhely.</a>
+				<a class="site-name navbar-brand" href="{{ $baseurl }}/hu">femmuhely.</a>
 			</div>
 			<div>
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="https://umcaruje.github.io/gegsite/en/showcase">Showcase</a>
+					<li><a href="{{ $baseurl }}/hu/showcase">Kirakat</a>
 					</li>
-					<li><a href="https://umcaruje.github.io/gegsite/en/equipment">Equipment</a>
+					<li><a href="{{ $baseurl }}/hu/equipment">Berendezés</a>
 					</li>
-					<li><a href="https://umcaruje.github.io/gegsite/en/contact">Contact</a>
+					<li><a href="{{ $baseurl }}/hu/contact">Érintkezés</a>
 					</li>
-					<li><a href="https://umcaruje.github.io/gegsite/hu"><img class='flag' src="https://umcaruje.github.io/gegsite/img/hu.png"></img></a>
+					<li><a href="{{ $baseurl }}/en"><img class='flag' src="{{ $baseurl }}/img/en.png"></img></a>
 					</li>
 				</ul>
 			</div>
 		</div>
 	</nav>
-
-<div class="cover">
-	<div class="container">
-		<h1>We love machining.</h1>
-		<h3>Come Visit us Aliens</h3>
-	</div>
-</div>
-
-
-</body>
-</html>
