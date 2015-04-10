@@ -57,3 +57,37 @@ a:hover {
 	height: 15px;
 	margin: 0 auto;
 }
+/* Sticky footer */
+
+* {
+	margin: 0;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+.wrapper {
+	min-height: 100%;
+	/* equal to footer height */
+	
+	margin-bottom: -72px;
+}
+
+.wrapper:after {
+	content: "";
+	display: block;
+}
+
+.footer,
+.wrapper:after {
+	height: 72px;
+}
+
+.footer {
+	background: #383328;
+	color: rgba(208, 214, 219, 0.71);
+	vertical-align: middle;
+	padding: 2em;
+}
