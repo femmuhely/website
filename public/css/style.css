@@ -1,3 +1,12 @@
+* {
+	margin: 0;
+}
+
+html,
+body {
+	height: 100%;
+	font-family: 'Muli', sans-serif;
+}
 .navbar li a,
 .navbar li a:visited {
 	color: #656565;
@@ -45,7 +54,7 @@ a:hover,
 }
 
 .cover {
-	min-width: 100vw;
+	max-width: 100vw;
 	min-height: 40vh;
 	background-image: linear-gradient( rgba(232, 171, 6, 0.19), rgba(232, 171, 6, 0.18)), url('../img/background.jpg');
 	background-position: center center;
@@ -83,15 +92,6 @@ a:hover,
 	margin: 0 auto;
 }
 /* Sticky footer */
-
-* {
-	margin: 0;
-}
-
-html,
-body {
-	height: 100%;
-}
 
 .wrapper {
 	min-height: 100%;
