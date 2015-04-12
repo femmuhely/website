@@ -1,6 +1,13 @@
-a:hover {
+.navbar li a,
+.navbar li a:visited {
+	color: #656565;
+}
+
+a:hover,
+.navbar li a:hover {
 	color: #0e9ec9;
 	transition: all 0.2s linear 0s;
+	text-decoration: none;
 }
 
 .site-name {
@@ -23,8 +30,18 @@ a:hover {
 	max-width: 1000px;
 }
 
+@media (min-width: 756px) {
+	.navbar .navbar-nav > li > a:hover,
+	.navbar .navbar-nav > li > a:focus {
+		background-color: transparent;
+		box-shadow: inset 0px -5px 0px 0px #e8ab06;
+	}
+}
+
 .navbar {
 	background-color: #fffcf5;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
 }
 
 .cover {
@@ -37,16 +54,24 @@ a:hover {
 	align-items: center;
 	justify-content: center;
 }
-
-.navbar {
-	padding-bottom: 0px;
-	margin-bottom: 0px;
+.title {
+	min-width: 100vw;
+	min-height: 150px;
+	background-image: linear-gradient( rgba(232, 171, 6, 0.19), rgba(232, 171, 6, 0.18)), url('../img/background.jpg');
+	background-position: center center;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
 }
-
 .cover h1,
-.cover h3 {
+.cover h3, 
+.title h2 {
 	color: aliceblue;
 	font-family: 'Damion', cursive;
+}
+
+.title h2 {
+	font-size: 4em;
 }
 
 .cover h1 {
@@ -82,12 +107,77 @@ body {
 
 .footer,
 .wrapper:after {
-	height: 72px;
+	min-height: 72px;
 }
 
 .footer {
-	background: #383328;
+	background: #343025;
 	color: rgba(208, 214, 219, 0.71);
 	vertical-align: middle;
-	padding: 2em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.footext {
+	display: block;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+	padding: 1em;
+}
+/* Simple Flat Social buttons */
+
+.snav {
+	padding: 0;
+	padding-top: 0.5em;
+	list-style-type: none;
+	display: block;
+	float: right;
+}
+
+@media (max-width: 768px) {
+	.snav {
+		display: block;
+		float: none;
+		margin: 0 auto;
+	}
+	.cover h1 {
+		font-size: 4em;
+	}
+}
+
+.snav ul {
+	margin: 0;
+	padding: 0;
+}
+
+.snav li {
+	float: left;
+}
+
+.sbtn {
+	display: block;
+	color: #343025;
+	background-color: #ffffff;
+	width: 1.3em;
+	height: 1.3em;
+	font-size: 2em;
+	text-align: center;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	line-height: auto;
+	border-radius: 4px;
+	margin: 3px;
+	opacity: 0.5;
+	transition: all 0.3s ease-in-out 0.1s;
+}
+/* Grow on hover */
+
+.sbtn:visited {
+	color: #343025;
+}
+
+.sbtn:hover {
+	opacity: 1;
+	color: #343025;
 }
