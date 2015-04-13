@@ -121,8 +121,6 @@ a:hover,
 
 .footext {
 	display: block;
-	font-family: 'Raleway', sans-serif;
-	font-weight: 700;
 	padding: 1em;
 }
 /* Simple Flat Social buttons */
@@ -140,6 +138,8 @@ a:hover,
 		display: block;
 		float: none;
 		margin: 0 auto;
+		max-width: 128px;
+		padding-bottom: 0.5em;
 	}
 	.cover h1 {
 		font-size: 4em;
