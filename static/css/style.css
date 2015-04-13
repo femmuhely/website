@@ -7,6 +7,7 @@ body {
 	height: 100%;
 	font-family: 'Muli', sans-serif;
 }
+
 .navbar li a,
 .navbar li a:visited {
 	color: #656565;
@@ -63,6 +64,7 @@ a:hover,
 	align-items: center;
 	justify-content: center;
 }
+
 .title {
 	min-width: 100vw;
 	min-height: 150px;
@@ -72,8 +74,9 @@ a:hover,
 	align-items: center;
 	justify-content: flex-end;
 }
+
 .cover h1,
-.cover h3, 
+.cover h3,
 .title h2 {
 	color: aliceblue;
 	font-family: 'Damion', cursive;
@@ -99,8 +102,8 @@ a:hover,
 	background-position: center center;
 	background-size: cover;
 	color: aliceblue;
-	
 }
+
 .segment {
 	font-size: 1.2em;
 	margin-top: 2em;
@@ -109,7 +112,6 @@ a:hover,
 	align-items: center;
 	justify-content: center;
 }
-
 /* Sticky footer */
 
 .wrapper {
@@ -199,4 +201,32 @@ a:hover,
 .sbtn:hover {
 	opacity: 1;
 	color: #343025;
+}
+
+.carousel {
+	box-shadow: 2px 2px 8px 1px rgba(173,173,173,0.79);
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+.carousel-control.left,
+.carousel-control.right {
+	background-image: none;
+	text-shadow: 4px 30px #000 2px;
+	opacity: 0.6;
+	transition: opacity 0.2s ease-in-out 0s;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.carousel-control:hover {
+	opacity: 1;
+	
+}
+.carousel-indicators {
+	opacity: 0.6;
+	transition: opacity 0.2s ease-in-out 0s;
+}
+.carousel-indicators:hover {
+	opacity: 1;
 }
