@@ -7,30 +7,36 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Femmuhely - Machining experts</title>
-
+	
 	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel='stylesheet' type='text/css'>
 	<link href='//fonts.googleapis.com/css?family=Raleway:700' rel='stylesheet' type='text/css'>
 	<link href='//fonts.googleapis.com/css?family=Damion' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Muli:400,400italic' rel='stylesheet' type='text/css'>
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 	<link href="{{ $baseurl }}/css/style.css" rel='stylesheet' type='text/css'>
+	<script src="{{ $baseurl }}/js/prefixfree.min.js"></script>
 </head>
 
 <body>
-	<nav class="navbar navbar-static-top">
-		<div class="container">
-			<div class="navbar-header">
-				<a class="site-name navbar-brand" href="{{ $baseurl }}/hu">femmuhely.</a>
+	<div class="wrapper">	
+		<nav class="navbar navbar-static-top">
+			<div class="container">
+				<div class="navbar-header">
+          			<button type="button" class="navbar-toggle collapsed fa fa-bars fa-lg visible-xs" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false" aria-controls="navbar">
+          			</button>
+					<a class="site-name navbar-brand" href="{{ $baseurl }}/hu">femmuhely.</a>
+				</div>
+				<div class="collapse navbar-collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="{{ $baseurl }}/hu/showcase">Kirakat</a>
+						</li>
+						<li><a href="{{ $baseurl }}/hu/equipment">Berendezések</a>
+						</li>
+						<li><a href="{{ $baseurl }}/hu/contact">Kapcsolat</a>
+						</li>
+						<li><a href="{{ $baseurl }}/en"><img class='flag' src="{{ $baseurl }}/img/en.png"></img></a>
+						</li>
+					</ul>
+				</div>
 			</div>
-			<div>
-				<ul class="nav navbar-nav navbar-right">
-					<li><a href="{{ $baseurl }}/hu/showcase">Kirakat</a>
-					</li>
-					<li><a href="{{ $baseurl }}/hu/equipment">Berendezés</a>
-					</li>
-					<li><a href="{{ $baseurl }}/hu/contact">Érintkezés</a>
-					</li>
-					<li><a href="{{ $baseurl }}/en"><img class='flag' src="{{ $baseurl }}/img/en.png"></img></a>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</nav>
+		</nav>

@@ -1,10 +1,47 @@
 {{ partial "header_hu.html" . }}
-
+{{ $baseurl := .Site.BaseUrl }}
 <div class="cover">
 	<div class="container">
-		<h1>Szeretjük megmunkálás.</h1>
+		<h1>Szeretjük a megmunkálást.</h1>
 		<h3>Come Visit us Aliens</h3>
 	</div>
 </div>
+
+<div class="segment">
+	<div class="container">
+		<h1 class="page-header text-center">Milling, Turning and Grinding since 1991.</h1>
+		<div class="col-sm-7">
+			<br>
+			<p>We are a small company situated at <b>Börgöndi út 2-4</b> in <b>Székesfehérvár, Fejér</b>.</p>
+			<br>
+			<p>Our main objectives are: competitive price, quality, and being on schedule for all tasks</p>
+		</div>
+		<div class="col-sm-5">
+			<div class="embed-responsive embed-responsive-16by9">
+				<iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1356.1305315105485!2d18.42318800000001!3d47.172325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4769f7724b2c60c1%3A0xe076208b9c78c3ca!2zRsOpbWlwYXJpIG3FsWhlbHk!5e0!3m2!1sen!2srs!4v1428918969090" width="320" height="200" style="border:0"></iframe>
+			</div>
+		</div>
+	</div>	
+</div>
+<div class="segment" id="cad">
+	<div class="container">
+	<h2 class="page-header text-left">Activities:</h1>	
+	<ul class="fa-ul">
+		<li><i class="fa-li fa fa-arrow-right"></i>Designing in AutoCAD or, nowadays a big favorite, parametric design (SolidWorks, TopSolid).</li>
+		<li><i class="fa-li fa fa-arrow-right"></i>Production: Lathe / Mill / Grinding machine.</li>
+		<li><i class="fa-li fa fa-arrow-right"></i>Machining: Iron, Plastic, and Wood.</li>
+		<li><i class="fa-li fa fa-arrow-right"></i>Custom parts to custom deadlines!</li>
+	</ul>
+	</div>	
+</div>
+<br>
+<div class="segment" id="seemore">
+	<div class="container text-center">
+		<h2>Want to work with us?</h2>
+		<h3>Give us <a href="{{ $baseurl }}/hu/contact">a call</a>, check out <a href="{{ $baseurl }}/hu/equipment">our equipment</a>,</h3>
+		<h3>Or see <a href="{{ $baseurl }}/hu/showcase">some of the work we've done in the past.</a></h3>	
+	</div>
+</div>
+<br><br><br>
 
 {{ partial "footer.html" . }}
