@@ -91,6 +91,25 @@ a:hover,
 	height: 15px;
 	margin: 0 auto;
 }
+
+#cad {
+	max-width: 100vw;
+	min-height: 400px;
+	background-image: linear-gradient( rgba(0, 113, 52, 0.54), rgba(0, 113, 52, 0.54)), url('../img/cad.jpg');
+	background-position: center center;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: aliceblue;
+	
+}
+.segment {
+	font-size: 1.2em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
 /* Sticky footer */
 
 .wrapper {
