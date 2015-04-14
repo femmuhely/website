@@ -1,52 +1,60 @@
 +++
 date = "2015-04-10T17:12:50+02:00"
 draft = false
-title = "Our Machines:"
+title = "Gépparkunk:"
 
 +++
 
 ### FADAL VMC 4020
 
-* 3+1 axis VMC CNC 
-* Machine Travels :
- * X = 1010 mm (40") 
- * Y= 505 mm (20")
- * Z= 505 mm (20")
-* Rotating head 360°
+* 3+1 tengelyes CNC vertikális megmunkáló központ
+ 
+* Mozgástartományok :
+ * X = 1010 mm /40"/ 
+ * Y= 505 mm /20"/
+ * Z= 505 mm /20"/
 
-* Automatic Tool Changer with 21 tools of capacity,
+* Forgató fej (osztófej) 360°
+* Automata 21 férőhelyes szerszám cserélő,
 
-* Max Spindle speed : 10 000 rpm,
+* Max. 10 000 rpm főorsó,
 
-* ISO 40 toolholding (collet), through-tool cooling,
+* ISO 40 befogókúppal,
 
-* Max Feed : 17780 mm/min
+* Folyadékhűtés akár főorsón keresztül is,
+
+* Legnagyobb mozgatási sebesség : 17780 mm/perc
 (29,6 cm / sec).
 
-Ideal for machining complex parts.
+* Komplex munkadarabok megmunkálására.
+
 <hr>
 ### Kellenberger
-* Cylindrical and Internal Grinder
- 
-* Grinding cylinders and tapers or cones, internal grinding with high precision.
-* Machining centerless or between centers.
-* Grinding bored holes with high-speed spindle
-* Grinding cylinder or bore diameters with as high as 1/100 mm precision!
+* Palástköszörű / furatköszörű
+
+* Henger , kúp , furat köszörülése nagy pontossággal !
+
+* Megmunkálás csúcs nélkül , csúccsal , két csúcs között.
+
+* Furatok köszörülése nagy fordulatú orsóval /fortuna/
+
+* Átmérők , furatok köszörülése akár 1 század mm pontossággal !
  
 <hr>
 ### EAN 1000
 
-* Metalworking (Toolroom) Lathe of 1000 mm length between centers
+* Egyetemes 1000 mm es csúcstávú eszterga
 
-* General metal turning tasks, threading.
+* Általános fémipari esztergálásos megmunkálások , menetvágás.
  
 <hr>
-### Vertical Turret Mill 
-* Universal Mill, with an Indexing (Dividing) Head and Tilting Vertical Main Spindle
+### Vertikális marógép
 
-* Machining works of reasonable dimensions.
+* Egyetemes marógép, osztófejjel, dönthető vertikális fejjel
 
-* Machine Travels :
+* Kisebb munkadarabok megmunkálására
+
+* Mozgástartomány :
  * X = 320 mm
  * Y = 200 mm
  * Z = 300 mm
@@ -54,9 +62,9 @@ Ideal for machining complex parts.
   
 <hr>
 ### TOS BPH 300 
-* Surface Grinder equipped with a 1000 mm long Magnetic Table
-
-* Fine grinding of flats with a precision to hundredth of a mm.
-
-* Tool sharpening works
+- Síkköszörűgép -
+- 
+* TOS BPH 300 sikköszörűgép , 1000 mm es mágnesasztallal
+* Finom sík felületek köszörülése század mm pontossággal
+* Élezési megmunkálások
 <hr>
