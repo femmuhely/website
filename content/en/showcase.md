@@ -23,6 +23,11 @@ title = "Showcase"
 	<li data-target="#carousel" data-slide-to="14"></li>
 	<li data-target="#carousel" data-slide-to="15"></li>
 	<li data-target="#carousel" data-slide-to="16"></li>
+	<li data-target="#carousel" data-slide-to="17"></li>
+	<li data-target="#carousel" data-slide-to="18"></li>
+	<li data-target="#carousel" data-slide-to="19"></li>
+	<li data-target="#carousel" data-slide-to="20"></li>
+	<li data-target="#carousel" data-slide-to="21"></li>
   </ol>
   <div class="carousel-inner" role="listbox">
   	<div class="item active">
@@ -72,6 +77,21 @@ title = "Showcase"
 	</div>
 	<div class="item">
 	  <img src="/img/showcase16.jpg" alt="">
+	</div>
+	<div class="item">
+	  <img src="/img/showcase17.jpg" alt="">
+	</div>
+	<div class="item">
+	  <img src="/img/showcase18.jpg" alt="">
+	</div>
+	<div class="item">
+	  <img src="/img/showcase19.jpg" alt="">
+	</div>
+	<div class="item">
+	  <img src="/img/showcase20.jpg" alt="">
+	</div>
+	<div class="item">
+	  <img src="/img/showcase21.jpg" alt="">
 	</div>
   </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

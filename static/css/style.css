@@ -12,15 +12,16 @@ body {
 .navbar li a:visited {
 	color: #656565;
 }
-.footer  p  a,
-.footer  p  a:visited {
+
+.footer p a,
+.footer p a:visited {
 	color: rgba(208, 214, 219, 0.71);
 	text-decoration: none;
 }
 
 a:hover,
 .navbar li a:hover,
-.footer  p  a:hover {
+.footer p a:hover {
 	color: #0e9ec9;
 	transition: all 0.15s ease-in-out 0s;
 	text-decoration: none;
@@ -84,7 +85,7 @@ a:hover,
 
 #cad {
 	min-height: 400px;
-	background-image: linear-gradient( rgba(0, 113, 52, 0.54), rgba(0, 113, 52, 0.54)), url('../img/cad.jpg'); 
+	background-image: linear-gradient( rgba(0, 113, 52, 0.54), rgba(0, 113, 52, 0.54)), url('../img/cad.jpg');
 	color: aliceblue;
 }
 
@@ -229,10 +230,39 @@ a:hover,
 }
 
 .carousel-indicators {
-	opacity: 0.6;
+	opacity: 0.8;
 	transition: opacity 0.2s ease-in-out 0s;
 }
 
 .carousel-indicators:hover {
+	opacity: 1;
+}
+
+.carousel-indicators {
+	bottom: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.carousel-indicators li {
+	display: inline-block;
+	width: 8px;
+	height: 1px;
+	margin: 1px;
+	text-indent: -999px;
+	cursor: pointer;
+	background-color: #000;
+	background-color: rgba(0, 0, 0, 0);
+	border-bottom: 3px solid #fff;
+	border-radius: 0px;
+	opacity: 0.4;
+}
+.carousel-indicators .active {
+	width: 8px;
+	height: 1px;
+	margin: 1px;
+	text-indent: -999px;
+	cursor: pointer;
+	border-bottom: 3px solid #fff;
+	border-radius: 0px;
 	opacity: 1;
 }
