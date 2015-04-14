@@ -12,9 +12,15 @@ body {
 .navbar li a:visited {
 	color: #656565;
 }
+.footer  p  a,
+.footer  p  a:visited {
+	color: rgba(208, 214, 219, 0.71);
+	text-decoration: none;
+}
 
 a:hover,
-.navbar li a:hover {
+.navbar li a:hover,
+.footer  p  a:hover {
 	color: #0e9ec9;
 	transition: all 0.15s ease-in-out 0s;
 	text-decoration: none;
@@ -54,25 +60,32 @@ a:hover,
 	margin-bottom: 0px;
 }
 
-.cover {
+.title,
+.cover,
+#cad {
 	max-width: 100vw;
-	min-height: 40vh;
-	background-image: linear-gradient( rgba(232, 171, 6, 0.19), rgba(232, 171, 6, 0.18)), url('../img/background.jpg');
 	background-position: center center;
 	background-size: cover;
 	display: flex;
 	align-items: center;
+}
+
+.cover {
+	min-height: 40vh;
+	background-image: linear-gradient( rgba(232, 171, 6, 0.19), rgba(232, 171, 6, 0.18)), url('../img/background.jpg');
 	justify-content: center;
 }
 
 .title {
-	min-width: 100vw;
 	min-height: 150px;
 	background-image: linear-gradient( rgba(232, 171, 6, 0.19), rgba(232, 171, 6, 0.18)), url('../img/background.jpg');
-	background-position: center center;
-	display: flex;
-	align-items: center;
 	justify-content: flex-end;
+}
+
+#cad {
+	min-height: 400px;
+	background-image: linear-gradient( rgba(0, 113, 52, 0.54), rgba(0, 113, 52, 0.54)), url('../img/cad.jpg'); 
+	color: aliceblue;
 }
 
 .cover h1,
@@ -93,15 +106,6 @@ a:hover,
 .flag {
 	height: 15px;
 	margin: 0 auto;
-}
-
-#cad {
-	max-width: 100vw;
-	min-height: 400px;
-	background-image: linear-gradient( rgba(0, 113, 52, 0.54), rgba(0, 113, 52, 0.54)), url('../img/cad.jpg');
-	background-position: center center;
-	background-size: cover;
-	color: aliceblue;
 }
 
 .segment {
@@ -204,10 +208,11 @@ a:hover,
 }
 
 .carousel {
-	box-shadow: 2px 2px 8px 1px rgba(173,173,173,0.79);
+	box-shadow: 2px 2px 8px 1px rgba(173, 173, 173, 0.79);
 	margin-top: 3em;
 	margin-bottom: 3em;
 }
+
 .carousel-control.left,
 .carousel-control.right {
 	background-image: none;
@@ -221,12 +226,13 @@ a:hover,
 
 .carousel-control:hover {
 	opacity: 1;
-	
 }
+
 .carousel-indicators {
 	opacity: 0.6;
 	transition: opacity 0.2s ease-in-out 0s;
 }
+
 .carousel-indicators:hover {
 	opacity: 1;
 }
