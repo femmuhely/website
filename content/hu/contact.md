@@ -4,4 +4,4 @@ title = "contact"
 
 +++
 
-WEWUFVDZIGVSZIGASPIZgspi
+Kapcsolat: fem.munkak @ gmail .com
