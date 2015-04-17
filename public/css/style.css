@@ -269,3 +269,6 @@ a:hover,
 #success:not(:target) {
 	display: none;
 }
+#form form {
+	width: 100%;
+}
