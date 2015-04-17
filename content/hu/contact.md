@@ -4,7 +4,7 @@ title = "Kapscolat"
 
 +++
 <div class="segment form-group" id="form">
-	<form accept-charset="UTF-8" action="https://formkeep.com/f/5366f551938e" method="POST">
+	<form accept-charset="UTF-8" action="https://formkeep.com/f/e34443328722" method="POST">
 	  <input type="hidden" name="utf8" value="✓">
 	<div class="input-group form-group">
 	  <span class="input-group-addon" id="sizing-addon2"><i class="fa fa-user"></i></span>
