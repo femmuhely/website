@@ -266,3 +266,6 @@ a:hover,
 	border-radius: 0px;
 	opacity: 1;
 }
+#success:not(:target) {
+	display: none;
+}
