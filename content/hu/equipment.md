@@ -1,7 +1,7 @@
 +++
 date = "2015-04-10T17:12:50+02:00"
 draft = false
-title = "Gépparkunk:"
+title = "Gépparkunk"
 
 +++
 
