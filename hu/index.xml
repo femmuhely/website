@@ -9,7 +9,7 @@
     <atom:link href="http://femmuhely.hu/hu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Gépparkunk:</title>
+      <title>Gépparkunk</title>
       <link>http://femmuhely.hu/hu/equipment/</link>
       <pubDate>Fri, 10 Apr 2015 17:12:50 +0200</pubDate>
       
@@ -105,7 +105,7 @@
     </item>
     
     <item>
-      <title>Showcase</title>
+      <title>Kirakat</title>
       <link>http://femmuhely.hu/hu/showcase/</link>
       <pubDate>Fri, 10 Apr 2015 17:12:38 +0200</pubDate>
       
