@@ -2,110 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://femmuhely.github.io/website/</link>
+    <link>http://femmuhely.hu/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 10 Apr 2015 17:12:50 +0200</lastBuildDate>
-    <atom:link href="https://femmuhely.github.io/website/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Our Machines:</title>
-      <link>https://femmuhely.github.io/website/en/equipment/</link>
-      <pubDate>Fri, 10 Apr 2015 17:12:50 +0200</pubDate>
-      
-      <guid>https://femmuhely.github.io/website/en/equipment/</guid>
-      <description>
-
-&lt;h3 id=&#34;fadal-vmc-4020:f52cafe705773aae4a20a17bd8602569&#34;&gt;FADAL VMC 4020&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;3+1 axis VMC CNC&lt;/li&gt;
-&lt;li&gt;Machine Travels :
-
-&lt;ul&gt;
-&lt;li&gt;X = 1010 mm (40&amp;rdquo;)&lt;/li&gt;
-&lt;li&gt;Y= 505 mm (20&amp;rdquo;)&lt;/li&gt;
-&lt;li&gt;Z= 505 mm (20&amp;rdquo;)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Rotating head 360°&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Automatic Tool Changer with 21 tools of capacity,&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Max Spindle speed : 10 000 rpm,&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;ISO 40 toolholding (collet), through-tool cooling,&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Max Feed : 17780 mm/min
-(29,6 cm / sec).&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ideal for machining complex parts.
-&lt;hr&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;kellenberger:f52cafe705773aae4a20a17bd8602569&#34;&gt;Kellenberger&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Cylindrical and Internal Grinder&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Grinding cylinders and tapers or cones, internal grinding with high precision.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Machining centerless or between centers.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Grinding bored holes with high-speed spindle&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Grinding cylinder or bore diameters with as high as &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;100&lt;/sub&gt; mm precision!&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr&gt;
-
-&lt;h3 id=&#34;ean-1000:f52cafe705773aae4a20a17bd8602569&#34;&gt;EAN 1000&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Metalworking (Toolroom) Lathe of 1000 mm length between centers&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;General metal turning tasks, threading.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr&gt;
-
-&lt;h3 id=&#34;vertical-turret-mill:f52cafe705773aae4a20a17bd8602569&#34;&gt;Vertical Turret Mill&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Universal Mill, with an Indexing (Dividing) Head and Tilting Vertical Main Spindle&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Machining works of reasonable dimensions.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Machine Travels :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;X = 320 mm&lt;/li&gt;
-&lt;li&gt;Y = 200 mm&lt;/li&gt;
-&lt;li&gt;Z = 300 mm&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr&gt;
-
-&lt;h3 id=&#34;tos-bph-300:f52cafe705773aae4a20a17bd8602569&#34;&gt;TOS BPH 300&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Surface Grinder equipped with a 1000 mm long Magnetic Table&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Fine grinding of flats with a precision to hundredth of a mm.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Tool sharpening works
-&lt;hr&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
+    <atom:link href="http://femmuhely.hu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Gépparkunk:</title>
-      <link>https://femmuhely.github.io/website/hu/equipment/</link>
+      <link>http://femmuhely.hu/hu/equipment/</link>
       <pubDate>Fri, 10 Apr 2015 17:12:50 +0200</pubDate>
       
-      <guid>https://femmuhely.github.io/website/hu/equipment/</guid>
+      <guid>http://femmuhely.hu/hu/equipment/</guid>
       <description>
 
 &lt;h3 id=&#34;fadal-vmc-4020:f52cafe705773aae4a20a17bd8602569&#34;&gt;FADAL VMC 4020&lt;/h3&gt;
@@ -197,11 +105,103 @@
     </item>
     
     <item>
+      <title>Our Machines:</title>
+      <link>http://femmuhely.hu/en/equipment/</link>
+      <pubDate>Fri, 10 Apr 2015 17:12:50 +0200</pubDate>
+      
+      <guid>http://femmuhely.hu/en/equipment/</guid>
+      <description>
+
+&lt;h3 id=&#34;fadal-vmc-4020:f52cafe705773aae4a20a17bd8602569&#34;&gt;FADAL VMC 4020&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;3+1 axis VMC CNC&lt;/li&gt;
+&lt;li&gt;Machine Travels :
+
+&lt;ul&gt;
+&lt;li&gt;X = 1010 mm (40&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;Y= 505 mm (20&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;Z= 505 mm (20&amp;rdquo;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rotating head 360°&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Automatic Tool Changer with 21 tools of capacity,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Max Spindle speed : 10 000 rpm,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ISO 40 toolholding (collet), through-tool cooling,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Max Feed : 17780 mm/min
+(29,6 cm / sec).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ideal for machining complex parts.
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;kellenberger:f52cafe705773aae4a20a17bd8602569&#34;&gt;Kellenberger&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Cylindrical and Internal Grinder&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Grinding cylinders and tapers or cones, internal grinding with high precision.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Machining centerless or between centers.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Grinding bored holes with high-speed spindle&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Grinding cylinder or bore diameters with as high as &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;100&lt;/sub&gt; mm precision!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h3 id=&#34;ean-1000:f52cafe705773aae4a20a17bd8602569&#34;&gt;EAN 1000&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Metalworking (Toolroom) Lathe of 1000 mm length between centers&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;General metal turning tasks, threading.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h3 id=&#34;vertical-turret-mill:f52cafe705773aae4a20a17bd8602569&#34;&gt;Vertical Turret Mill&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Universal Mill, with an Indexing (Dividing) Head and Tilting Vertical Main Spindle&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Machining works of reasonable dimensions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Machine Travels :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;X = 320 mm&lt;/li&gt;
+&lt;li&gt;Y = 200 mm&lt;/li&gt;
+&lt;li&gt;Z = 300 mm&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+
+&lt;h3 id=&#34;tos-bph-300:f52cafe705773aae4a20a17bd8602569&#34;&gt;TOS BPH 300&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Surface Grinder equipped with a 1000 mm long Magnetic Table&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fine grinding of flats with a precision to hundredth of a mm.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tool sharpening works
+&lt;hr&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Showcase</title>
-      <link>https://femmuhely.github.io/website/en/showcase/</link>
+      <link>http://femmuhely.hu/en/showcase/</link>
       <pubDate>Fri, 10 Apr 2015 17:12:38 +0200</pubDate>
       
-      <guid>https://femmuhely.github.io/website/en/showcase/</guid>
+      <guid>http://femmuhely.hu/en/showcase/</guid>
       <description>&lt;div id=&#34;carousel&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34;&gt;
   &lt;ol class=&#34;carousel-indicators hidden-xs&#34;&gt;
     &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;0&#34; class=&#34;active&#34;&gt;&lt;/li&gt;
@@ -228,67 +228,67 @@
   &lt;/ol&gt;
   &lt;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&gt;
     &lt;div class=&#34;item active&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase4.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase4.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item &#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase1.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase1.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase2.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase2.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item &#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase3.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase3.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase5.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase5.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase6.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase6.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase7.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase7.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase8.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase8.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase9.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase9.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase10.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase10.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase11.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase11.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase12.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase12.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase13.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase13.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase14.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase14.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase15.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase15.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase16.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase16.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase17.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase17.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase18.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase18.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase19.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase19.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase20.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase20.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase21.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase21.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;a class=&#34;left carousel-control&#34; href=&#34;#carousel&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;
@@ -305,10 +305,10 @@
     
     <item>
       <title>Showcase</title>
-      <link>https://femmuhely.github.io/website/hu/showcase/</link>
+      <link>http://femmuhely.hu/hu/showcase/</link>
       <pubDate>Fri, 10 Apr 2015 17:12:38 +0200</pubDate>
       
-      <guid>https://femmuhely.github.io/website/hu/showcase/</guid>
+      <guid>http://femmuhely.hu/hu/showcase/</guid>
       <description>&lt;div id=&#34;carousel&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34;&gt;
   &lt;ol class=&#34;carousel-indicators hidden-xs&#34;&gt;
     &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;0&#34; class=&#34;active&#34;&gt;&lt;/li&gt;
@@ -330,52 +330,52 @@
   &lt;/ol&gt;
   &lt;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&gt;
     &lt;div class=&#34;item active&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase4.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase4.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item &#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase1.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase1.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase2.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase2.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item &#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase3.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase3.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase5.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase5.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase6.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase6.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase7.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase7.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase8.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase8.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase9.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase9.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase10.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase10.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase11.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase11.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase12.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase12.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase13.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase13.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase14.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase14.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase15.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase15.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
     &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;https://femmuhely.github.io/website/img/showcase16.jpg&#34; alt=&#34;&#34;&gt;
+      &lt;img src=&#34;http://femmuhely.hu/img/showcase16.jpg&#34; alt=&#34;&#34;&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;a class=&#34;left carousel-control&#34; href=&#34;#carousel&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;
@@ -392,10 +392,10 @@
     
     <item>
       <title>Contact us</title>
-      <link>https://femmuhely.github.io/website/en/contact/</link>
+      <link>http://femmuhely.hu/en/contact/</link>
       <pubDate>Thu, 09 Apr 2015 21:49:57 +0200</pubDate>
       
-      <guid>https://femmuhely.github.io/website/en/contact/</guid>
+      <guid>http://femmuhely.hu/en/contact/</guid>
       <description>
 
 &lt;div class=&#34;segment form-group&#34; id=&#34;form&#34;&gt;
@@ -435,10 +435,10 @@
     
     <item>
       <title>Kapscolat</title>
-      <link>https://femmuhely.github.io/website/hu/contact/</link>
+      <link>http://femmuhely.hu/hu/contact/</link>
       <pubDate>Thu, 09 Apr 2015 21:49:57 +0200</pubDate>
       
-      <guid>https://femmuhely.github.io/website/hu/contact/</guid>
+      <guid>http://femmuhely.hu/hu/contact/</guid>
       <description>
 
 &lt;div class=&#34;segment form-group&#34; id=&#34;form&#34;&gt;
