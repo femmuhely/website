@@ -8,22 +8,22 @@
   </url>
   
   <url>
-    <loc>http://femmuhely.hu/en/equipment/</loc>
-    <lastmod>2015-04-10T17:12:50+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://femmuhely.hu/hu/equipment/</loc>
     <lastmod>2015-04-10T17:12:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://femmuhely.hu/hu/showcase/</loc>
-    <lastmod>2015-04-10T17:12:38+02:00</lastmod>
+    <loc>http://femmuhely.hu/en/equipment/</loc>
+    <lastmod>2015-04-10T17:12:50+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://femmuhely.hu/en/showcase/</loc>
+    <lastmod>2015-04-10T17:12:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://femmuhely.hu/hu/showcase/</loc>
     <lastmod>2015-04-10T17:12:38+02:00</lastmod>
   </url>
   
