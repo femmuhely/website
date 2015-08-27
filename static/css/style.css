@@ -272,3 +272,16 @@ a:hover,
 #form form {
 	width: 100%;
 }
+.img-responsive {
+	border: 5px solid #eaeaea;
+}
+.flexbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media (max-width: 768px) {
+	.flexbox {
+		flex-wrap: wrap;
+	}
+}
