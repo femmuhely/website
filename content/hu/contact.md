@@ -21,7 +21,7 @@ title = "Kapscolat"
 	</form>
 </div>
 
-### Or give us a call:
+### Vagy hívjon minket:
 
 <address>
   __Fem Muhely__
@@ -33,5 +33,5 @@ title = "Kapscolat"
   Tel: __06 30 9292-523__
 </address>
 <div class="segment text-center" id="success">
-	<h1>Thanks for Submitting! We'll contact you as soon as possible.</h1>
+	<h1>Köszönjük, amint időnk engedi válaszolunk.</h1>
 </div>
