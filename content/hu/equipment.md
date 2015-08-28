@@ -2,69 +2,126 @@
 date = "2015-04-10T17:12:50+02:00"
 draft = false
 title = "Gépparkunk"
-
 +++
-
-### FADAL VMC 4020
-
-* 3+1 tengelyes CNC vertikális megmunkáló központ
- 
-* Mozgástartományok :
- * X = 1010 mm /40"/ 
- * Y= 505 mm /20"/
- * Z= 505 mm /20"/
-
-* Forgató fej (osztófej) 360°
-* Automata 21 férőhelyes szerszám cserélő,
-
-* Max. 10 000 rpm főorsó,
-
-* ISO 40 befogókúppal,
-
-* Folyadékhűtés akár főorsón keresztül is,
-
-* Legnagyobb mozgatási sebesség : 17780 mm/perc
-(29,6 cm / sec).
-
-* Komplex munkadarabok megmunkálására.
-
+<div class="flexbox">
+	<div class="col-md-8">
+		<h3>FADAL VMC 4020</h3>
+		<ul>
+			<li>3+1 tengelyes CNC vertikális megmunkáló központ</li> 
+			<li>Mozgástartományok :
+				<ul>
+					<li>X = 1010 mm (40")</li> 
+					<li>Y= 505 mm (20")</li> 
+					<li>Z= 505 mm (20")</li> 
+				</ul>
+			</li>	
+			<li>Forgató fej (osztófej) 360°</li>
+			<li>Automata 21 férőhelyes szerszám cserélő</li>
+			<li>Maximum főorsó fordulatszám : 10 000 rpm</li>
+			<li>ISO 40 befogókúppal, akár szérszámon keresztűli hűtés</li>
+			<li>Legnagyobb előtolás: 17780 mm/perc (29,6 cm / sec)</li>
+		</ul>
+		<p>Komplex munkadarabok megmunkálására</p>
+	</div>
+	<div class="col-md-4">
+		<img class="img-responsive" src="/img/equipment/fadal.jpg">
+	</div>
+</div>	
 <hr>
-### Kellenberger
-* Palástköszörű / furatköszörű
-
-* Henger , kúp , furat köszörülése nagy pontossággal !
-
-* Megmunkálás csúcs nélkül , csúccsal , két csúcs között.
-
-* Furatok köszörülése nagy fordulatú orsóval /fortuna/
-
-* Átmérők , furatok köszörülése akár 1 század mm pontossággal !
- 
+<div class="flexbox">
+	<div class="col-md-8">
+		<h3>Kellenberger</h3>
+		<ul>
+			<li>Palástköszörű / furatköszörű</li>
+			<li>Henger , kúp , furat köszörülése nagy pontossággal</li>
+			<li>Megmunkálás csúcs nélkül , csúccsal , két csúcs között</li>
+			<li>Furatok köszörülése nagy fordulatú orsóval /fortuna/</li>
+			<li>Átmérők , furatok köszörülése akár 1 század mm pontossággal</li>
+		</ul>
+	</div>
+	<div class="col-md-4">	
+		<img class="img-responsive" src="/img/equipment/kellenberger.jpg">
+	</div>
+</div>	
 <hr>
-### EAN 1000
-
-* Egyetemes 1000 mm es csúcstávú eszterga
-
-* Általános fémipari esztergálásos megmunkálások , menetvágás.
- 
+<div class="flexbox">
+	<div class="col-md-8">
+		<h3>EAN 1000</h3>
+		<ul>
+		<li>Egyetemes 1000 mm es csúcstávú eszterga</li>
+		<li>Általános fémipari esztergálásos megmunkálások , menetvágás.</li>
+		</ul>
+	</div>
+	<div class="col-md-4">	
+		<img class="img-responsive" src="/img/equipment/ean.jpg">
+	</div>
+</div>	
 <hr>
-### Vertikális marógép
-
-* Egyetemes marógép, osztófejjel, dönthető vertikális fejjel
-
-* Kisebb munkadarabok megmunkálására
-
-* Mozgástartomány :
- * X = 320 mm
- * Y = 200 mm
- * Z = 300 mm
- 
-  
+<div class="flexbox">
+	<div class="col-md-8">
+		<h3>Vertikális marógép</h3>
+		<ul> 
+			<li>Egyetemes marógép, osztófejjel, dönthető vertikális fejjel</li>
+			<li>Kisebb munkadarabok megmunkálására</li>
+			<li>Mozgástartomány:
+				<ul>
+					<li>X = 320 mm</li>
+					<li>Y = 200 mm</li>
+					<li>Z = 300 mm</li>
+				</ul>
+			</li>
+		</ul>  	
+	</div>
+	<div class="col-md-4">		
+		<img class="img-responsive" src="/img/equipment/mar.jpg">
+	</div>
+</div>	
 <hr>
-### TOS BPH 300 
-- Síkköszörűgép -
-- 
-* TOS BPH 300 sikköszörűgép , 1000 mm es mágnesasztallal
-* Finom sík felületek köszörülése század mm pontossággal
-* Élezési megmunkálások
+<div class="flexbox">
+	<div class="col-md-8">
+		<h3>TOS BPH 300</h3> 
+		<ul>
+		<li>Síkköszörűgép</li>
+			<li>TOS BPH 300 sikköszörűgép , 1000 mm es mágnesasztallal</li>
+			<li>Finom sík felületek köszörülése század mm pontossággal</li>
+			<li>Sík felületek létrehozás,Hengerfej síkolás, Élezési megmunkálások</li>
+		</ul>	
+	</div>
+	<div class="col-md-4">	
+		<img class="img-responsive" src="/img/equipment/tos.jpg">
+	</div>
+</div>	
 <hr>
+<div class="flexbox">
+	<div class="col-md-8">
+		<h3>MAKTEK CD 410x1000</h3> 
+		<ul>
+			<li>Esztegagép</li>
+			<li>Legnagyobb átforduló méret: 410 mm</li>
+			<li>Csúcsok közzti távolság: 1000 mm</li>
+			<li>DIGITALIS mérőrendszer</li>
+			<li>Főmotor teljesítmény: 3,3 kW</li>
+		</ul>	
+	</div>
+	<div class="col-md-4">	
+		<img class="img-responsive" src="/img/equipment/maktek-cd.jpg">
+	</div>
+</div>	
+<hr>
+<div class="flexbox">
+	<div class="col-md-8">
+		<h3>MAKTEK G5013W</h3> 
+		<ul>
+			<li>Fűrészgép</li>
+			<li>Legnagyobb vágási méret: 120x120 mm (négyzet)</li>
+			<li>Automatikus végkapcsoló </li>
+			<li>Hűtőrendszer</li>
+			<li>Főmotor telejsítmény: 0,55 kW</li>
+		</ul>	
+	</div>
+	<div class="col-md-4">	
+		<img class="img-responsive" src="/img/equipment/maktek-g.jpg">
+	</div>
+</div>	
+<hr>
+
