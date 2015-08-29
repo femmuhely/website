@@ -20,8 +20,8 @@ title = "Gépparkunk"
 			<li>Maximum főorsó fordulatszám : 10 000 rpm</li>
 			<li>ISO 40 befogókúppal, akár szérszámon keresztűli hűtés</li>
 			<li>Legnagyobb előtolás: 17780 mm/perc (29,6 cm / sec)</li>
+			<li>Komplex munkadarabok megmunkálására</li>
 		</ul>
-		<p>Komplex munkadarabok megmunkálására</p>
 	</div>
 	<div class="col-md-4">
 		<img class="img-responsive" src="/img/equipment/fadal.jpg">
