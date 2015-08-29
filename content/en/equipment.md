@@ -21,8 +21,8 @@ title = "Our machines"
 			<li>Max Spindle speed : 10 000 rpm</li>
 			<li>ISO 40 toolholding (collet), through-tool cooling</li>
 			<li>Max Feed : 17780 mm/min (29,6 cm / sec)</li>
+			<li>Ideal for machining complex parts.</li>
 		</ul>
-		<p>Ideal for machining complex parts.</p>
 	</div>
 	<div class="col-md-4">
 		<img class="img-responsive" src="/img/equipment/fadal.jpg">
