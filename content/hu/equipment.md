@@ -17,7 +17,7 @@ title = "Gépparkunk"
 			</li>	
 			<li>Forgató fej (osztófej) 360°</li>
 			<li>Automata 21 férőhelyes szerszám cserélő</li>
-			<li>Maximum főorsó fordulatszám : 10 000 rpm</li>
+			<li>Legnagyobb főorsó fordulatszám : 10 000 rpm</li>
 			<li>ISO 40 befogókúppal, akár szérszámon keresztűli hűtés</li>
 			<li>Legnagyobb előtolás: 17780 mm/perc (29,6 cm / sec)</li>
 			<li>Komplex munkadarabok megmunkálására</li>
@@ -33,10 +33,10 @@ title = "Gépparkunk"
 		<h3>Kellenberger</h3>
 		<ul>
 			<li>Palástköszörű / furatköszörű</li>
-			<li>Henger , kúp , furat köszörülése nagy pontossággal</li>
+			<li>Henger, kúp, furat köszörülése nagy pontossággal</li>
 			<li>Megmunkálás csúcs nélkül , csúccsal , két csúcs között</li>
 			<li>Furatok köszörülése nagy fordulatú orsóval /fortuna/</li>
-			<li>Átmérők , furatok köszörülése akár 1 század mm pontossággal</li>
+			<li>Átmérők, furatok köszörülése akár 1 század mm pontossággal</li>
 		</ul>
 	</div>
 	<div class="col-md-4">	
@@ -49,7 +49,7 @@ title = "Gépparkunk"
 		<h3>EAN 1000</h3>
 		<ul>
 		<li>Egyetemes 1000 mm es csúcstávú eszterga</li>
-		<li>Általános fémipari esztergálásos megmunkálások , menetvágás.</li>
+		<li>Általános fémipari esztergálásos megmunkálások, menetvágás.</li>
 		</ul>
 	</div>
 	<div class="col-md-4">	
@@ -116,7 +116,7 @@ title = "Gépparkunk"
 			<li>Legnagyobb vágási méret: 120x120 mm (négyzet)</li>
 			<li>Automatikus végkapcsoló </li>
 			<li>Hűtőrendszer</li>
-			<li>Főmotor telejsítmény: 0,55 kW</li>
+			<li>Főmotor teljesítmény: 0,55 kW</li>
 		</ul>	
 	</div>
 	<div class="col-md-4">	
