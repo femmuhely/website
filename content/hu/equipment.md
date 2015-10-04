@@ -30,7 +30,7 @@ title = "Gépparkunk"
 <hr>
 <div class="flexbox">
 	<div class="col-md-8">
-		<h3>Kellenberger</h3>
+		<h3>Kellenberger 57U</h3>
 		<ul>
 			<li>Palástköszörű / furatköszörű</li>
 			<li>Henger, kúp, furat köszörülése nagy pontossággal</li>
@@ -79,7 +79,7 @@ title = "Gépparkunk"
 <hr>
 <div class="flexbox">
 	<div class="col-md-8">
-		<h3>TOS BPH 300</h3> 
+		<h3>TOS BPH 300/1000</h3> 
 		<ul>
 		<li>Síkköszörűgép</li>
 			<li>TOS BPH 300 sikköszörűgép , 1000 mm es mágnesasztallal</li>
@@ -94,13 +94,19 @@ title = "Gépparkunk"
 <hr>
 <div class="flexbox">
 	<div class="col-md-8">
-		<h3>MAKTEK CD 410x1000</h3> 
+		<h3>"MAKTEK" CD6241 410x1000</h3> 
 		<ul>
-			<li>Esztegagép</li>
-			<li>Legnagyobb átforduló méret: 410 mm</li>
-			<li>Csúcsok közzti távolság: 1000 mm</li>
-			<li>DIGITALIS mérőrendszer</li>
-			<li>Főmotor teljesítmény: 3,3 kW</li>
+		<li>Egyetemes esztegagép</li> 
+		<li>CAM LOCK tokmányfelfogatással</li> 
+		<li>Legnagyobb átforduló méret: 410 mm</li> 
+		<li>Metrikus , Coll és Modul menetek készítése</li> 
+	        <li>Csúcsok közötti maximális távolság: 1000 mm</li> 
+	        <li>Legnagyobb főorsón átmenő átmérő : 52mm</li> 
+	        <li>16 főorsó sebességfokozat</li> 
+	        <li>Főorsókúp : Morse 6</li> 
+	        <li>3 tengelyes DIGITÁLIS lineáris mérőrendszer</li> 
+	        <li>2 fokozatú motor</li> 
+	        <li>Főmotor teljesítmény: 3,3 kW</li> 
 		</ul>	
 	</div>
 	<div class="col-md-4">	
@@ -112,11 +118,13 @@ title = "Gépparkunk"
 	<div class="col-md-8">
 		<h3>MAKTEK G5013W</h3> 
 		<ul>
-			<li>Fűrészgép</li>
-			<li>Legnagyobb vágási méret: 120x120 mm (négyzet)</li>
-			<li>Automatikus végkapcsoló </li>
-			<li>Hűtőrendszer</li>
-			<li>Főmotor teljesítmény: 0,55 kW</li>
+			 <li>Fémipari szallagfűrészgép</li>
+			 <li>3 sebességfokozattal</li>
+            		 <li>Hidarulikus előtolás szabályozással</li>
+            		<li>Legnagyobb vágási méret: 120x120 mm (négyzet)</li>
+            		<li>Automatikus végkapcsoló </li>
+            		<li>Hűtőrendszer</li>
+            		<li>Főmotor teljesítmény: 0,55 kW</li>
 		</ul>	
 	</div>
 	<div class="col-md-4">	
