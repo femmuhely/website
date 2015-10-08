@@ -9,136 +9,6 @@
     <atom:link href="http://femmuhely.hu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Gépparkunk</title>
-      <link>http://femmuhely.hu/hu/equipment/</link>
-      <pubDate>Fri, 10 Apr 2015 17:12:50 +0200</pubDate>
-      
-      <guid>http://femmuhely.hu/hu/equipment/</guid>
-      <description>&lt;p&gt;&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;FADAL VMC 4020&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;3+1 tengelyes CNC vertikális megmunkáló központ&lt;/li&gt;
-            &lt;li&gt;Mozgástartományok :
-                &lt;ul&gt;
-                    &lt;li&gt;X = 1010 mm (40&amp;rdquo;)&lt;/li&gt;
-                    &lt;li&gt;Y= 505 mm (20&amp;rdquo;)&lt;/li&gt;
-                    &lt;li&gt;Z= 505 mm (20&amp;rdquo;)&lt;/li&gt;
-                &lt;/ul&gt;
-            &lt;/li&gt;&lt;br /&gt;
-            &lt;li&gt;Forgató fej (osztófej) 360°&lt;/li&gt;
-            &lt;li&gt;Automata 21 férőhelyes szerszám cserélő&lt;/li&gt;
-            &lt;li&gt;Legnagyobb főorsó fordulatszám : 10 000 rpm&lt;/li&gt;
-            &lt;li&gt;ISO 40 befogókúppal, akár szérszámon keresztűli hűtés&lt;/li&gt;
-            &lt;li&gt;Legnagyobb előtolás: 17780 mm/perc (29,6 cm / sec)&lt;/li&gt;
-            &lt;li&gt;Komplex munkadarabok megmunkálására&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/fadal.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;
-&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;Kellenberger&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;Palástköszörű / furatköszörű&lt;/li&gt;
-            &lt;li&gt;Henger, kúp, furat köszörülése nagy pontossággal&lt;/li&gt;
-            &lt;li&gt;Megmunkálás csúcs nélkül , csúccsal , két csúcs között&lt;/li&gt;
-            &lt;li&gt;Furatok köszörülése nagy fordulatú orsóval /fortuna/&lt;/li&gt;
-            &lt;li&gt;Átmérők, furatok köszörülése akár 1 század mm pontossággal&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/kellenberger.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;
-&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;EAN 1000&lt;/h3&gt;
-        &lt;ul&gt;
-        &lt;li&gt;Egyetemes 1000 mm es csúcstávú eszterga&lt;/li&gt;
-        &lt;li&gt;Általános fémipari esztergálásos megmunkálások, menetvágás.&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/ean.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;
-&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;Vertikális marógép&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;Egyetemes marógép, osztófejjel, dönthető vertikális fejjel&lt;/li&gt;
-            &lt;li&gt;Kisebb munkadarabok megmunkálására&lt;/li&gt;
-            &lt;li&gt;Mozgástartomány:
-                &lt;ul&gt;
-                    &lt;li&gt;X = 320 mm&lt;/li&gt;
-                    &lt;li&gt;Y = 200 mm&lt;/li&gt;
-                    &lt;li&gt;Z = 300 mm&lt;/li&gt;
-                &lt;/ul&gt;
-            &lt;/li&gt;
-        &lt;/ul&gt;&lt;br /&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/mar.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;
-&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;TOS BPH 300&lt;/h3&gt;
-        &lt;ul&gt;
-        &lt;li&gt;Síkköszörűgép&lt;/li&gt;
-            &lt;li&gt;TOS BPH 300 sikköszörűgép , 1000 mm es mágnesasztallal&lt;/li&gt;
-            &lt;li&gt;Finom sík felületek köszörülése század mm pontossággal&lt;/li&gt;
-            &lt;li&gt;Sík felületek létrehozás,Hengerfej síkolás, Élezési megmunkálások&lt;/li&gt;
-        &lt;/ul&gt;&lt;br /&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/tos.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;
-&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;MAKTEK CD 410x1000&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;Esztegagép&lt;/li&gt;
-            &lt;li&gt;Legnagyobb átforduló méret: 410 mm&lt;/li&gt;
-            &lt;li&gt;Csúcsok közzti távolság: 1000 mm&lt;/li&gt;
-            &lt;li&gt;DIGITALIS mérőrendszer&lt;/li&gt;
-            &lt;li&gt;Főmotor teljesítmény: 3,3 kW&lt;/li&gt;
-        &lt;/ul&gt;&lt;br /&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/maktek-cd.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;
-&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;MAKTEK G5013W&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;Fűrészgép&lt;/li&gt;
-            &lt;li&gt;Legnagyobb vágási méret: 120x120 mm (négyzet)&lt;/li&gt;
-            &lt;li&gt;Automatikus végkapcsoló &lt;/li&gt;
-            &lt;li&gt;Hűtőrendszer&lt;/li&gt;
-            &lt;li&gt;Főmotor teljesítmény: 0,55 kW&lt;/li&gt;
-        &lt;/ul&gt;&lt;br /&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/maktek-g.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Our machines</title>
       <link>http://femmuhely.hu/en/equipment/</link>
       <pubDate>Fri, 10 Apr 2015 17:12:50 +0200</pubDate>
@@ -257,6 +127,144 @@
             &lt;li&gt;Automatic limit switch&lt;/li&gt;
             &lt;li&gt;Cooling system&lt;/li&gt;
             &lt;li&gt;Main engine power: 0,55 kW&lt;/li&gt;
+        &lt;/ul&gt;&lt;br /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/maktek-g.jpg&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;hr&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gépparkunk</title>
+      <link>http://femmuhely.hu/hu/equipment/</link>
+      <pubDate>Fri, 10 Apr 2015 17:12:50 +0200</pubDate>
+      
+      <guid>http://femmuhely.hu/hu/equipment/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;flexbox&#34;&gt;
+    &lt;div class=&#34;col-md-8&#34;&gt;
+        &lt;h3&gt;FADAL VMC 4020&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;3+1 tengelyes CNC vertikális megmunkáló központ&lt;/li&gt;
+            &lt;li&gt;Mozgástartományok :
+                &lt;ul&gt;
+                    &lt;li&gt;X = 1010 mm (40&amp;rdquo;)&lt;/li&gt;
+                    &lt;li&gt;Y= 505 mm (20&amp;rdquo;)&lt;/li&gt;
+                    &lt;li&gt;Z= 505 mm (20&amp;rdquo;)&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;&lt;br /&gt;
+            &lt;li&gt;Forgató fej (osztófej) 360°&lt;/li&gt;
+            &lt;li&gt;Automata 21 férőhelyes szerszám cserélő&lt;/li&gt;
+            &lt;li&gt;Legnagyobb főorsó fordulatszám : 10 000 rpm&lt;/li&gt;
+            &lt;li&gt;ISO 40 befogókúppal, akár szérszámon keresztűli hűtés&lt;/li&gt;
+            &lt;li&gt;Legnagyobb előtolás: 17780 mm/perc (29,6 cm / sec)&lt;/li&gt;
+            &lt;li&gt;Komplex munkadarabok megmunkálására&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-md-4&#34;&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/fadal.jpg&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;hr&gt;
+&lt;div class=&#34;flexbox&#34;&gt;
+    &lt;div class=&#34;col-md-8&#34;&gt;
+        &lt;h3&gt;Kellenberger 57U&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Palástköszörű / furatköszörű&lt;/li&gt;
+            &lt;li&gt;Henger, kúp, furat köszörülése nagy pontossággal&lt;/li&gt;
+            &lt;li&gt;Megmunkálás csúcs nélkül , csúccsal , két csúcs között&lt;/li&gt;
+            &lt;li&gt;Furatok köszörülése nagy fordulatú orsóval /fortuna/&lt;/li&gt;
+            &lt;li&gt;Átmérők, furatok köszörülése akár 1 század mm pontossággal&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/kellenberger.jpg&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;hr&gt;
+&lt;div class=&#34;flexbox&#34;&gt;
+    &lt;div class=&#34;col-md-8&#34;&gt;
+        &lt;h3&gt;EAN 1000&lt;/h3&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Egyetemes 1000 mm es csúcstávú eszterga&lt;/li&gt;
+        &lt;li&gt;Általános fémipari esztergálásos megmunkálások, menetvágás.&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/ean.jpg&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;hr&gt;
+&lt;div class=&#34;flexbox&#34;&gt;
+    &lt;div class=&#34;col-md-8&#34;&gt;
+        &lt;h3&gt;Vertikális marógép&lt;/h3&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Egyetemes marógép, osztófejjel, dönthető vertikális fejjel&lt;/li&gt;
+            &lt;li&gt;Kisebb munkadarabok megmunkálására&lt;/li&gt;
+            &lt;li&gt;Mozgástartomány:
+                &lt;ul&gt;
+                    &lt;li&gt;X = 320 mm&lt;/li&gt;
+                    &lt;li&gt;Y = 200 mm&lt;/li&gt;
+                    &lt;li&gt;Z = 300 mm&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;&lt;br /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/mar.jpg&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;hr&gt;
+&lt;div class=&#34;flexbox&#34;&gt;
+    &lt;div class=&#34;col-md-8&#34;&gt;
+        &lt;h3&gt;TOS BPH &lt;sup&gt;300&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1000&lt;/sub&gt;&lt;/h3&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Síkköszörűgép&lt;/li&gt;
+            &lt;li&gt;TOS BPH 300 sikköszörűgép , 1000 mm es mágnesasztallal&lt;/li&gt;
+            &lt;li&gt;Finom sík felületek köszörülése század mm pontossággal&lt;/li&gt;
+            &lt;li&gt;Sík felületek létrehozás,Hengerfej síkolás, Élezési megmunkálások&lt;/li&gt;
+        &lt;/ul&gt;&lt;br /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/tos.jpg&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;hr&gt;
+&lt;div class=&#34;flexbox&#34;&gt;
+    &lt;div class=&#34;col-md-8&#34;&gt;
+        &lt;h3&gt;&amp;ldquo;MAKTEK&amp;rdquo; CD6241 410x1000&lt;/h3&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Egyetemes esztegagép&lt;/li&gt;
+        &lt;li&gt;CAM LOCK tokmányfelfogatással&lt;/li&gt;
+        &lt;li&gt;Legnagyobb átforduló méret: 410 mm&lt;/li&gt;
+        &lt;li&gt;Metrikus , Coll és Modul menetek készítése&lt;/li&gt;
+            &lt;li&gt;Csúcsok közötti maximális távolság: 1000 mm&lt;/li&gt;
+            &lt;li&gt;Legnagyobb főorsón átmenő átmérő : 52mm&lt;/li&gt;
+            &lt;li&gt;16 főorsó sebességfokozat&lt;/li&gt;
+            &lt;li&gt;Főorsókúp : Morse 6&lt;/li&gt;
+            &lt;li&gt;3 tengelyes DIGITÁLIS lineáris mérőrendszer&lt;/li&gt;
+            &lt;li&gt;2 fokozatú motor&lt;/li&gt;
+            &lt;li&gt;Főmotor teljesítmény: 3,3 kW&lt;/li&gt;
+        &lt;/ul&gt;&lt;br /&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/maktek-cd.jpg&#34;&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;br /&gt;
+&lt;hr&gt;
+&lt;div class=&#34;flexbox&#34;&gt;
+    &lt;div class=&#34;col-md-8&#34;&gt;
+        &lt;h3&gt;MAKTEK G5013W&lt;/h3&gt;
+        &lt;ul&gt;
+             &lt;li&gt;Fémipari szallagfűrészgép&lt;/li&gt;
+             &lt;li&gt;3 sebességfokozattal&lt;/li&gt;
+                     &lt;li&gt;Hidarulikus előtolás szabályozással&lt;/li&gt;
+                    &lt;li&gt;Legnagyobb vágási méret: 120x120 mm (négyzet)&lt;/li&gt;
+                    &lt;li&gt;Automatikus végkapcsoló &lt;/li&gt;
+                    &lt;li&gt;Hűtőrendszer&lt;/li&gt;
+                    &lt;li&gt;Főmotor teljesítmény: 0,55 kW&lt;/li&gt;
         &lt;/ul&gt;&lt;br /&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
