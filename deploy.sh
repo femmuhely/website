@@ -6,7 +6,7 @@ echo "Enter commit message: "
 
 read input_variable
 
-git add .
+git add --all .
 
 git commit -a -m "$input_variable"
 
