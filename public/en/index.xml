@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ens on </title>
@@ -6,7 +6,9 @@
     <description>Recent content in Ens on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 10 Apr 2015 17:12:50 +0200</lastBuildDate>
-    <atom:link href="http://femmuhely.hu/en/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://femmuhely.hu/en/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Our machines</title>
@@ -14,127 +16,7 @@
       <pubDate>Fri, 10 Apr 2015 17:12:50 +0200</pubDate>
       
       <guid>http://femmuhely.hu/en/equipment/</guid>
-      <description>&lt;p&gt;&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;FADAL VMC 4020&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;3+1 axis VMC CNC&lt;/li&gt;
-            &lt;li&gt;Machine Travels :
-                &lt;ul&gt;
-                    &lt;li&gt;X = 1010 mm (40&amp;rdquo;)&lt;/li&gt;
-                    &lt;li&gt;Y= 505 mm (20&amp;rdquo;)&lt;/li&gt;
-                    &lt;li&gt;Z= 505 mm (20&amp;rdquo;)&lt;/li&gt;
-                &lt;/ul&gt;
-            &lt;/li&gt;&lt;br /&gt;
-            &lt;li&gt;Rotating head 360°&lt;/li&gt;
-            &lt;li&gt;Automatic Tool Changer with 21 tools of capacity&lt;/li&gt;
-            &lt;li&gt;Max Spindle speed : 10 000 rpm&lt;/li&gt;
-            &lt;li&gt;ISO 40 toolholding (collet), through-tool cooling&lt;/li&gt;
-            &lt;li&gt;Max Feed : 17780 mm/min (29,6 cm / sec)&lt;/li&gt;
-            &lt;li&gt;Ideal for machining complex parts.&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/fadal.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;
-&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;Kellenberger&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;Cylindrical and Internal Grinder&lt;/li&gt;
-            &lt;li&gt;Grinding cylinders and tapers or cones, internal grinding with high precision.&lt;/li&gt;
-            &lt;li&gt;Machining centerless or between centers.&lt;/li&gt;
-            &lt;li&gt;Grinding bored holes with high-speed spindle&lt;/li&gt;
-            &lt;li&gt;Grinding cylinder or bore diameters with as high as &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;100&lt;/sub&gt; mm precision!&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/kellenberger.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;
-&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;EAN 1000&lt;/h3&gt;
-        &lt;ul&gt;
-        &lt;li&gt;Metalworking (Toolroom) Lathe of 1000 mm length between centers&lt;/li&gt;
-        &lt;li&gt;General metal turning tasks, threading.&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/ean.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;
-&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;Vertical Turret Mill&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;Universal Mill, with an Indexing (Dividing) Head and Tilting Vertical Main Spindle&lt;/li&gt;
-            &lt;li&gt;Machining works of reasonable dimensions.&lt;/li&gt;
-            &lt;li&gt;Machine Travels:
-                &lt;ul&gt;
-                    &lt;li&gt;X = 320 mm&lt;/li&gt;
-                    &lt;li&gt;Y = 200 mm&lt;/li&gt;
-                    &lt;li&gt;Z = 300 mm&lt;/li&gt;
-                &lt;/ul&gt;
-            &lt;/li&gt;
-        &lt;/ul&gt;&lt;br /&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/mar.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;
-&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;TOS BPH 300&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;Surface Grinder equipped with a 1000 mm long Magnetic Table&lt;/li&gt;
-            &lt;li&gt;Fine grinding of flats with a precision to hundredth of a mm.&lt;/li&gt;
-            &lt;li&gt;Tool sharpening works&lt;/li&gt;
-        &lt;/ul&gt;&lt;br /&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/tos.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;
-&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;MAKTEK CD 410x1000&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;Turning Machine&lt;/li&gt;
-            &lt;li&gt;Biggest turning diameter: 410 mm&lt;/li&gt;
-            &lt;li&gt;Distance between centers: 1000 mm&lt;/li&gt;
-            &lt;li&gt;DIGITAL measuring system&lt;/li&gt;
-            &lt;li&gt;Main engine power  3,3 kW&lt;/li&gt;
-        &lt;/ul&gt;&lt;br /&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/maktek-cd.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;
-&lt;div class=&#34;flexbox&#34;&gt;
-    &lt;div class=&#34;col-md-8&#34;&gt;
-        &lt;h3&gt;MAKTEK G5013W&lt;/h3&gt;
-        &lt;ul&gt;
-            &lt;li&gt;Sawing machine&lt;/li&gt;
-            &lt;li&gt;Maximal sawing dimensions: 120x120 mm square&lt;/li&gt;
-            &lt;li&gt;Automatic limit switch&lt;/li&gt;
-            &lt;li&gt;Cooling system&lt;/li&gt;
-            &lt;li&gt;Main engine power: 0,55 kW&lt;/li&gt;
-        &lt;/ul&gt;&lt;br /&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;col-md-4&#34;&gt;&lt;br /&gt;
-        &lt;img class=&#34;img-responsive&#34; src=&#34;http://femmuhely.hu/img/equipment/maktek-g.jpg&#34;&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;br /&gt;
-&lt;hr&gt;&lt;/p&gt;
-</description>
+      <description>FADAL VMC40  3 axis VMC CNC Machine Travels:  X = 558 mm (22”) Y= 406 mm (16”) Z= 505 mm (20”)   Automatic Tool Changer with 21 tools of capacity Max Spindle speed: 15 000 rpm ISO 40 toolholding (collet), through-tool cooling Max Feed: 17780 mm/min (29,6 cm / sec) Ideal for machining complex parts.      AGEI Agiecut 200D - Wire EDM Machine  Maximum workpiece dimensions:  Length 860 mm Width 580 mm Height 250 mm   Bearing surface:  Length 680 mm Width 500 mm   Workspace:  X-axis 400 mm Y-axis 250 mm X-axis 256 mm   Workpiece weight kg max.</description>
     </item>
     
     <item>
@@ -143,105 +25,7 @@
       <pubDate>Fri, 10 Apr 2015 17:12:38 +0200</pubDate>
       
       <guid>http://femmuhely.hu/en/showcase/</guid>
-      <description>&lt;div id=&#34;carousel&#34; class=&#34;carousel slide&#34; data-ride=&#34;carousel&#34;&gt;
-  &lt;ol class=&#34;carousel-indicators hidden-xs&#34;&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;0&#34; class=&#34;active&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;1&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;3&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;4&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;5&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;6&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;7&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;8&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;9&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;10&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;11&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;12&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;13&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;14&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;15&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;16&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;17&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;18&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;19&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;20&#34;&gt;&lt;/li&gt;
-    &lt;li data-target=&#34;#carousel&#34; data-slide-to=&#34;21&#34;&gt;&lt;/li&gt;
-  &lt;/ol&gt;
-  &lt;div class=&#34;carousel-inner&#34; role=&#34;listbox&#34;&gt;
-    &lt;div class=&#34;item active&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase4.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item &#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase1.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase2.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item &#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase3.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase5.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase6.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase7.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase8.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase9.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase10.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase11.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase12.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase13.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase14.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase15.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase16.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase17.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase18.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase19.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase20.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;item&#34;&gt;
-      &lt;img src=&#34;http://femmuhely.hu/img/showcase21.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;a class=&#34;left carousel-control&#34; href=&#34;#carousel&#34; role=&#34;button&#34; data-slide=&#34;prev&#34;&gt;
-    &lt;span class=&#34;fa fa-chevron-circle-left fa-lg&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
-    &lt;span class=&#34;sr-only&#34;&gt;Previous&lt;/span&gt;
-  &lt;/a&gt;
-  &lt;a class=&#34;right carousel-control&#34; href=&#34;#carousel&#34; role=&#34;button&#34; data-slide=&#34;next&#34;&gt;
-    &lt;span class=&#34;fa fa-chevron-circle-right fa-lg&#34; aria-hidden=&#34;true&#34;&gt;&lt;/span&gt;
-    &lt;span class=&#34;sr-only&#34;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-</description>
+      <description>                                             Previous   Next   </description>
     </item>
     
     <item>
@@ -250,41 +34,10 @@
       <pubDate>Thu, 09 Apr 2015 21:49:57 +0200</pubDate>
       
       <guid>http://femmuhely.hu/en/contact/</guid>
-      <description>
-
-&lt;div class=&#34;segment form-group&#34; id=&#34;form&#34;&gt;
-    &lt;form accept-charset=&#34;UTF-8&#34; action=&#34;https://formkeep.com/f/5366f551938e&#34; method=&#34;POST&#34;&gt;
-      &lt;input type=&#34;hidden&#34; name=&#34;utf8&#34; value=&#34;✓&#34;&gt;
-    &lt;div class=&#34;input-group form-group&#34;&gt;
-      &lt;span class=&#34;input-group-addon&#34; id=&#34;sizing-addon2&#34;&gt;&lt;i class=&#34;fa fa-user&#34;&gt;&lt;/i&gt;&lt;/span&gt;
-      &lt;input type=&#34;text&#34; name=&#34;Name&#34; class=&#34;form-control&#34; placeholder=&#34;Your Name&#34; aria-describedby=&#34;sizing-addon2&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;input-group form-group&#34;&gt;
-      &lt;span class=&#34;input-group-addon&#34; id=&#34;sizing-addon2&#34;&gt;&lt;i class=&#34;fa fa-at&#34;&gt;&lt;/i&gt;&lt;/span&gt;
-      &lt;input type=&#34;text&#34; name=&#34;Email&#34; class=&#34;form-control&#34; placeholder=&#34;Your Email&#34; aria-describedby=&#34;sizing-addon2&#34;&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;form-group&#34;&gt;
-    &lt;textarea class=&#34;form-control&#34; name=&#34;Message&#34; rows=&#34;5&#34; id=&#34;comment&#34; placeholder=&#34;Your Message&#34;&gt;&lt;/textarea&gt;
-    &lt;/div&gt;
-      &lt;button class=&#34;btn btn-default&#34; type=&#34;submit&#34;&gt;Submit&lt;/button&gt;
-    &lt;/form&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&#34;or-give-us-a-call:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Or give us a call:&lt;/h3&gt;
-
-&lt;p&gt;&lt;address&gt;
-  &lt;strong&gt;Fem Muhely&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Börgöndi út 2-4&lt;/p&gt;
-
-&lt;p&gt;Székesfehérvár, Fejér.&lt;/p&gt;
-
-&lt;p&gt;Tel: &lt;strong&gt;06 30 9292-523&lt;/strong&gt;
-&lt;/address&gt;
-&lt;div class=&#34;segment text-center&#34; id=&#34;success&#34;&gt;
-    &lt;h1&gt;Thanks for Submitting! We&amp;rsquo;ll contact you as soon as possible.&lt;/h1&gt;
-&lt;/div&gt;&lt;/p&gt;
-</description>
+      <description>Submit   Or give us a call:  Fem Muhely
+Börgöndi út 2-4
+Székesfehérvár, Fejér.
+Tel: 06 30 9292-523  Thanks for Submitting! We&amp;rsquo;ll contact you as soon as possible.</description>
     </item>
     
   </channel>
